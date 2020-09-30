@@ -1,4 +1,4 @@
-// Indirecti Recursion to calculate factorial of a number
+// Indirect Recursion to calculate factorial of a number
 
 #include <iostream>
 using namespace std;
